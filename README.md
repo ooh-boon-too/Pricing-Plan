@@ -8,6 +8,7 @@ Travis: https://codepen.io/travisw
 Colt: https://www.youtube.com/c/ColtSteeleCode
 # Project goals
 - Better understand how Flexbox works
+- To better understand HTML and CSS
 - Build a responsive website
 - To code better with better names
 - To have fun
