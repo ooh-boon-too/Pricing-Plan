@@ -3,7 +3,7 @@ Pricing Plan Project to learn Flexbox and media queries.
 <br>
 Thanks to [Colt Steele](https://www.youtube.com/c/ColtSteeleCode) and [Travis Williamson](https://codepen.io/travisw) for inspiring me and helping me create this simple project !!
 ## Project goals
-- Better understand how Flexbox works
+- Better understanding how Flexbox works
 - To better understand HTML and CSS
 - Build a responsive website
 - To code better with better names
