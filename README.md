@@ -17,3 +17,5 @@ Colt: https://www.youtube.com/c/ColtSteeleCode
 - CSS
 - Google Fonts
 - CSS Reset
+# New things i learned
+* CSS reset
