@@ -6,3 +6,4 @@ Thanks to Colt Steele and Travis Williamson for inspiring me and helping me crea
 Travis: https://codepen.io/travisw
 <br>
 Colt: https://www.youtube.com/c/ColtSteeleCode
+<hr>
