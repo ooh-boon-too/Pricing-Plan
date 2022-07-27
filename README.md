@@ -14,4 +14,4 @@ Thanks to [Colt Steele](https://www.youtube.com/c/ColtSteeleCode) and [Travis Wi
 - Google Fonts
 - CSS Reset
 ## New things i learned
-How to use [CSS reset](https://meyerweb.com/eric/tools/css/reset/)
+What is use of [CSS reset](https://meyerweb.com/eric/tools/css/reset/) and how to build Responsive desing for desktop and mobile devices.
