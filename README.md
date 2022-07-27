@@ -11,7 +11,7 @@ Thanks to [Colt Steele](https://www.youtube.com/c/ColtSteeleCode) and [Travis Wi
 ## Languages and materials used in project
 - HTML
 - CSS
-- Google Fonts
+- [Google Fonts](https://fonts.google.com/)
 - CSS Reset
 - [MDN](https://developer.mozilla.org/en-US/)
 - Udemy
